@@ -39,7 +39,7 @@ Passionate about modern web development, agile practices, and continuously learn
 ---
 
 ### 🌱 Currently Learning
-- Deepening knowledge of **Spring Boot** (JPA, Hibernate, Spring Security)  
+- Deepening knowledge of **Spring Boot** (JPA, Hibernate, Spring Security) and Data structure algorithms.
 ---
 
 ### 🔮 Future Exploration
