@@ -6,9 +6,7 @@ I place strong emphasis on clean architecture, design patterns, and writing read
 
 Passionate about software engineering best practices, system reliability, and continuously improving code quality, maintainability, and overall system design.
 
----
-
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 #### Frameworks
 <div>
@@ -60,8 +58,6 @@ Passionate about software engineering best practices, system reliability, and co
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
----
-
 ## ⚙️ Software Engineering & Architecture
 
 - REST API Design Best Practices
@@ -76,17 +72,14 @@ Passionate about software engineering best practices, system reliability, and co
 - Serverless Computing – Experience with Azure Functions for event-driven workloads
 - Event-Driven Systems – Basic familiarity with asynchronous communication using Apache Kafka
 
----
-
-### 🔮 Future Exploration
+## 🔮 Future Exploration
 <div>
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
----
-
-### 📫 Connect
+## 📫 Connect
 <div>
   <a href="https://linkedin.com/in/christos-n-4a6064301">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
