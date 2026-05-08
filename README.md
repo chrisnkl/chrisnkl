@@ -5,6 +5,7 @@ Full Stack Engineer with strong experience in designing robust RESTful APIs, wor
 I place strong emphasis on clean architecture, design patterns, and writing readable, maintainable, and testable code.
 
 Passionate about software engineering best practices, system reliability, and continuously improving code quality, maintainability, and overall system design.
+
 ---
 
 ### 🛠 Tech Stack
