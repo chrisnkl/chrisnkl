@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Chris!
 
-I am a **Fullstack Software Engineer** with experience building scalable web applications using **React** and **Spring Boot**.  
-Skilled in developing robust backend APIs, responsive frontends, and managing databases to deliver seamless user experiences.  
+Full Stack Engineer with strong experience in designing robust RESTful APIs, working with relational databases, and applying system design principles to build maintainable and scalable systems.
 
-I enjoy working across the stack, writing clean, maintainable code, and solving real-world problems.  
-Passionate about modern web development, agile practices, and continuously learning to improve software quality and performance.
+I place strong emphasis on clean architecture, design patterns, and writing readable, maintainable, and testable code.
 
+Passionate about software engineering best practices, system reliability, and continuously improving code quality, maintainability, and overall system design.
 ---
 
 ### 🛠 Tech Stack
