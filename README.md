@@ -72,6 +72,9 @@ Passionate about software engineering best practices, system reliability, and co
 - Serverless Computing – Experience with Azure Functions for event-driven workloads
 - Event-Driven Systems – Basic familiarity with asynchronous communication using Apache Kafka
 
+## Currently
+Diving into Spring Boot and learning Angular
+
 ## 🔮 Future Exploration
 <div>
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
